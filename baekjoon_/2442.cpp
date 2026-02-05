@@ -1,4 +1,4 @@
-#define PROBLEM_2442
+// #define PROBLEM_2442
 #ifdef PROBLEM_2442
 
 #include <iostream>
