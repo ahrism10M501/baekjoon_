@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="baekjoon_/baekjoon_.vcxproj" Id="6e490957-7999-413b-828f-2ad8621d0361" />
+</Solution>
