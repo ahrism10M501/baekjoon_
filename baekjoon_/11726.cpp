@@ -1,4 +1,4 @@
-﻿#define PROBLEM_11726
+﻿// #define PROBLEM_11726
 #ifdef PROBLEM_11726
 
 // 2×n 크기의 직사각형을 1×2, 2×1 타일로 채우는 방법의 수를 구하는 프로그램 작성
